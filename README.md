@@ -1,0 +1,1 @@
+This is the the source code of paper [Spiking Neural Network for Intracortical signal decoding](https://www.sciencedirect.com/science/article/abs/pii/S0950705126002509), published on **Knowledge-Based Systems**.
